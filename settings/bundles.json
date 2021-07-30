@@ -1,0 +1,792 @@
+{
+    "packageUrl": "http://hotupdatedownload.xq5.com/patch/",
+    "hotUpdateUrl": "http://hotupdatedownload.xq5.com/patch/96/",
+    "games": [
+        {
+            "name": "窝龙",
+            "areaId": 0,
+            "gameKey": "WoLong",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "跑得快",
+            "areaId": 1,
+            "gameKey": "PaoDeKuai",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "二七王",
+            "areaId": 2,
+            "gameKey": "ErQiWang",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "斗地主",
+            "areaId": 3,
+            "gameKey": "NewDouDiZhu",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "上饶麻将",
+            "areaId": 4,
+            "gameKey": "NewShangRaoMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "上饶打炸",
+            "areaId": 5,
+            "gameKey": "ShangRaoDaZha",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "南昌麻将",
+            "areaId": 6,
+            "gameKey": "NewNanChangMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "拖拉机",
+            "areaId": 7,
+            "gameKey": "TuoLaJi",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "玉山打炸",
+            "areaId": 8,
+            "gameKey": "YuShanDaZha",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "九江麻将",
+            "areaId": 9,
+            "gameKey": "JiuJiangMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "吉安王炸",
+            "areaId": 10,
+            "gameKey": "JiAnWangZha",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "泰和麻将",
+            "areaId": 11,
+            "gameKey": "TaiHeMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "德安麻将",
+            "areaId": 12,
+            "gameKey": "DeAnMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "景德镇讨赏",
+            "areaId": 13,
+            "gameKey": "JingDeZhenTaoShang",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "瑞昌麻将",
+            "areaId": 14,
+            "gameKey": "RuiChangMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "武宁双扣",
+            "areaId": 15,
+            "gameKey": "WuNingShuangKou",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "武宁麻将",
+            "areaId": 16,
+            "gameKey": "WuNingMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "吉安麻将",
+            "areaId": 17,
+            "gameKey": "NewJiAnMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "余干麻将",
+            "areaId": 18,
+            "gameKey": "YuGanMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "赣州冲关",
+            "areaId": 19,
+            "gameKey": "GanZhouChongGuan",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "标准红中",
+            "areaId": 20,
+            "gameKey": "PingXiangHongZhongMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "乐平麻将",
+            "areaId": 21,
+            "gameKey": "NewLePingMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "抚州放炮",
+            "areaId": 22,
+            "gameKey": "FuZhouFangPaoMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "赣州同花",
+            "areaId": 23,
+            "gameKey": "GanZhouTongHua",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "鹰潭麻将",
+            "areaId": 24,
+            "gameKey": "YingTanMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "余江麻将",
+            "areaId": 25,
+            "gameKey": "YuJiangMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "上饶红中",
+            "areaId": 26,
+            "gameKey": "HongZhongMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "中国象棋",
+            "areaId": 27,
+            "gameKey": "ChinaChessWx",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "广丰五十K",
+            "areaId": 28,
+            "gameKey": "GuangFengFTK",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "景德镇麻将",
+            "areaId": 29,
+            "gameKey": "NewJingDeZhenMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "打三片",
+            "areaId": 30,
+            "gameKey": "DaSanPian",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "德兴德麻",
+            "areaId": 31,
+            "gameKey": "DeXingMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "包王",
+            "areaId": 32,
+            "gameKey": "BaoWang",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "余干五十K",
+            "areaId": 33,
+            "gameKey": "YuGanWuShiK",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "泰和过炸",
+            "areaId": 34,
+            "gameKey": "TaiHeGuoZha",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "干瞪眼",
+            "areaId": 35,
+            "gameKey": "GanDengYan",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "玉山关牌",
+            "areaId": 36,
+            "gameKey": "YuShanGuanPai",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "抚州市麻将",
+            "areaId": 37,
+            "gameKey": "FuZhouShiMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "宜黄麻将",
+            "areaId": 38,
+            "gameKey": "YiHuangMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "金溪打盾",
+            "areaId": 39,
+            "gameKey": "JinXiDaDun",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "崇仁打盾",
+            "areaId": 40,
+            "gameKey": "NewChongRenDaDun",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "翻墩",
+            "areaId": 41,
+            "gameKey": "FanDun",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "金溪麻将",
+            "areaId": 42,
+            "gameKey": "JinXiMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "崇仁麻将",
+            "areaId": 43,
+            "gameKey": "ChongRenMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "南城麻将",
+            "areaId": 44,
+            "gameKey": "NanChengMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "黎川麻将",
+            "areaId": 45,
+            "gameKey": "LiChuanMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "德兴九幺",
+            "areaId": 46,
+            "gameKey": "JiuYaoMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "乐平讨赏",
+            "areaId": 47,
+            "gameKey": "LePingTaoShang",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "余干夹子",
+            "areaId": 48,
+            "gameKey": "JiaZiMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "东乡麻将",
+            "areaId": 49,
+            "gameKey": "NewDongXiangMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "永丰麻将",
+            "areaId": 50,
+            "gameKey": "YongFengMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "星子麻将",
+            "areaId": 51,
+            "gameKey": "XingZiMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "都昌麻将",
+            "areaId": 52,
+            "gameKey": "DuChangMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "余干六副",
+            "areaId": 53,
+            "gameKey": "YuGanLiuFu",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "赣州包牌",
+            "areaId": 54,
+            "gameKey": "GanZhouBaoPai",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "宜春麻将",
+            "areaId": 55,
+            "gameKey": "YiChunMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "丰城踢牌",
+            "areaId": 56,
+            "gameKey": "FengChengTiPai",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "靖安麻将",
+            "areaId": 57,
+            "gameKey": "JingAnMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "余干杠板",
+            "areaId": 58,
+            "gameKey": "YuGanGangBanMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "龙南麻将",
+            "areaId": 59,
+            "gameKey": "LongNanMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "上高麻将",
+            "areaId": 60,
+            "gameKey": "ShangGaoMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "万载麻将",
+            "areaId": 61,
+            "gameKey": "WanZaiMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "黄梅麻将",
+            "areaId": 62,
+            "gameKey": "HuangMeiMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "丰城双剑",
+            "areaId": 63,
+            "gameKey": "FengChengShuangJian",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "东乡嗨翻天",
+            "areaId": 64,
+            "gameKey": "DongXiangHFT",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "宜丰麻将",
+            "areaId": 65,
+            "gameKey": "YiFengMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "都昌栽宝",
+            "areaId": 66,
+            "gameKey": "DuChangZaiBaoMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "奉新麻将",
+            "areaId": 67,
+            "gameKey": "FengXinMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "丰城麻将",
+            "areaId": 68,
+            "gameKey": "FengChengMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "云山五十K",
+            "areaId": 69,
+            "gameKey": "YunShanWuShiK",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "九江红中",
+            "areaId": 70,
+            "gameKey": "JJHongZhongMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "瑞昌隔板",
+            "areaId": 71,
+            "gameKey": "RuiChangGeBan",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "新建麻将",
+            "areaId": 72,
+            "gameKey": "XinJianMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "九江炸弹",
+            "areaId": 73,
+            "gameKey": "JiuJiangZhaDan",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "王七二",
+            "areaId": 74,
+            "gameKey": "WangQiEr",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "三个老K",
+            "areaId": 75,
+            "gameKey": "ThreeK",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "万年麻将",
+            "areaId": 76,
+            "gameKey": "WanNianMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "宁都麻将",
+            "areaId": 77,
+            "gameKey": "NingDuMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "南丰数刀",
+            "areaId": 78,
+            "gameKey": "NanFengShuDao",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "南丰麻将",
+            "areaId": 79,
+            "gameKey": "NanFengMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "湘东258",
+            "areaId": 80,
+            "gameKey": "XiangDongErWuBa",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "转转麻将",
+            "areaId": 81,
+            "gameKey": "ZhuanZhuanMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "铜鼓麻将",
+            "areaId": 82,
+            "gameKey": "TongGuMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "高安麻将",
+            "areaId": 83,
+            "gameKey": "GaoAnMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "都昌讨赏",
+            "areaId": 84,
+            "gameKey": "DuChangTaoShang",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "广东麻将",
+            "areaId": 85,
+            "gameKey": "GuangDongMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "湖口麻将",
+            "areaId": 86,
+            "gameKey": "HuKouMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "进贤麻将",
+            "areaId": 87,
+            "gameKey": "JinXianMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "萍乡258",
+            "areaId": 88,
+            "gameKey": "PingXiangErWuBa",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "广昌麻将",
+            "areaId": 89,
+            "gameKey": "GuangChangMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "瑞金麻将",
+            "areaId": 90,
+            "gameKey": "RuiJinMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "新余麻将",
+            "areaId": 91,
+            "gameKey": "XinYuMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "金溪K十五",
+            "areaId": 92,
+            "gameKey": "JinXiKShiWu",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "婺源麻将",
+            "areaId": 93,
+            "gameKey": "WuYuanMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "广丰麻将",
+            "areaId": 94,
+            "gameKey": "GuangFengMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "吉水麻将",
+            "areaId": 95,
+            "gameKey": "JiShuiMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "彭泽麻将",
+            "areaId": 96,
+            "gameKey": "PengZeMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "新余五十K",
+            "areaId": 97,
+            "gameKey": "XinYuFTK",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "肉挨肉",
+            "areaId": 98,
+            "gameKey": "RouAiRou",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "永修满带",
+            "areaId": 99,
+            "gameKey": "YongXiuMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "永修硬夹",
+            "areaId": 100,
+            "gameKey": "YingJiaMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "广丰打通天",
+            "areaId": 101,
+            "gameKey": "GuangFengDaTongTian",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "永修扳倒胡",
+            "areaId": 102,
+            "gameKey": "YongXiuBanDaoHuMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "樟树麻将",
+            "areaId": 103,
+            "gameKey": "ZhangShuMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "永新麻将",
+            "areaId": 104,
+            "gameKey": "YongXinMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "万安麻将",
+            "areaId": 105,
+            "gameKey": "WanAnMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "鄱阳麻将",
+            "areaId": 106,
+            "gameKey": "PoYangMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "安福麻将",
+            "areaId": 107,
+            "gameKey": "AnFuMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "乐安麻将",
+            "areaId": 108,
+            "gameKey": "LeAnMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "资溪麻将",
+            "areaId": 109,
+            "gameKey": "ZiXiMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "上顿渡麻将",
+            "areaId": 110,
+            "gameKey": "ShangDunDuMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "赣南麻将",
+            "areaId": 111,
+            "gameKey": "GanNanMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "箍筒",
+            "areaId": 112,
+            "gameKey": "KuTong",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "星子二七王",
+            "areaId": 113,
+            "gameKey": "XingZiErQiWang",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "遂川麻将",
+            "areaId": 114,
+            "gameKey": "SuiChuanMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "武宁二七王",
+            "areaId": 115,
+            "gameKey": "WuNingErQiWang",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "于都德国",
+            "areaId": 116,
+            "gameKey": "YuDuDeGuoMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "会昌麻将",
+            "areaId": 117,
+            "gameKey": "HuiChangMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "修水麻将",
+            "areaId": 118,
+            "gameKey": "XiuShuiMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "乐安打盾",
+            "areaId": 119,
+            "gameKey": "LeAnDaDun",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "傻瓜麻将",
+            "areaId": 120,
+            "gameKey": "ShaGuaMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "四团",
+            "areaId": 121,
+            "gameKey": "NanChangSiTuan",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "南康麻将",
+            "areaId": 122,
+            "gameKey": "NanKangMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "新干麻将",
+            "areaId": 123,
+            "gameKey": "XinGanMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "上栗麻将",
+            "areaId": 124,
+            "gameKey": "ShangLiMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "石城麻将",
+            "areaId": 126,
+            "gameKey": "ShiChengMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "广昌包杠",
+            "areaId": 127,
+            "gameKey": "GuangChangBaoGangMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "南昌五十K",
+            "areaId": 128,
+            "gameKey": "NanChangWuShiK",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "莲花广麻",
+            "areaId": 129,
+            "gameKey": "LianHuaGuangMaMJ",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "铜鼓五十K",
+            "areaId": 130,
+            "gameKey": "TongGuFTK",
+            "version": "1.0.0.0"
+        },
+        {
+            "name": "莲花猪牌",
+            "areaId": 131,
+            "gameKey": "PigCard",
+            "version": "1.0.0.0"
+        }
+    ]
+}

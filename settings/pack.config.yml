@@ -1,0 +1,19 @@
+# 应用名称
+appName: GameGanPaiQuan
+
+# 引擎版本
+engineVersion: 2.4.5
+
+# 热更新后台账号
+loginName: 'zhangwubing'
+loginPassword: '13145920@Zy'
+
+windows:
+  cocosRoot: 'D:/CocosCreator/CocosDashboard/resources/.editors/Creator' # 指向编辑器版本的上一级目录，不一样就改一下
+  buildRoot: 'D:/CocosCreator/build' # 可以不用改，自动生成
+  manifestOutPut: 'D:/CocosCreator/manifestOutPut' # 可以不用改，自动生成
+
+mac:
+  cocosRoot: '/Applications/CocosCreator/Creator/'
+  buildRoot: '/Users/Sites/build'
+  manifestOutPut: '/Users/zonst/.CocosCreator/manifestOutPut'

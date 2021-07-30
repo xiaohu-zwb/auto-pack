@@ -1,0 +1,22 @@
+{
+  "name": "auto-pack",
+  "version": "1.0.0",
+  "description": "热更自动化\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[",
+  "main": "pack.js",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "jszip": "^3.6.0",
+    "request": "^2.88.2",
+    "shelljs": "^0.8.4",
+    "yamljs": "^0.3.0"
+  },
+  "devDependencies": {
+    "jquery": "^3.6.0",
+    "jsdom": "^16.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
